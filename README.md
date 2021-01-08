@@ -1,4 +1,8 @@
 ## Get in touch
+
+<a target="_blank" href="https://www.linkedin.com/in/madalinaeleonorag/">
+  <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png"> 
+  
 * Email: madalinaeleonora.gheorghe@gmail.com
 * [LinkedIn ✓](https://www.linkedin.com/in/madalinaeleonorag/)
 * [GitHub ✓](https://github.com/madalinaeleonorag)
