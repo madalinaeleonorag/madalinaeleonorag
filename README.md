@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ## Get in touch
-* Email: madalinaeleonora.gheorghe@gmail.com
-* LinkedIn: https://www.linkedin.com/in/madalinaeleonorag/
-* GitHub: https://github.com/madalinaeleonorag
-* Instagram: https://www.instagram.com/madalinaeleonorag/
-* Facebook: https://www.facebook.com/mdx.madalinaeleonora/
-* 500px: https://500px.com/p/madalinaeleonorag?view=photos
-* PayPal: https://www.paypal.com/paypalme/madalinaeleonorag
+* Email: madalinaeleonora.gheorghe@gmail.com ☑
+* [LinkedIn](https://www.linkedin.com/in/madalinaeleonorag/) ☑
+* [GitHub](https://github.com/madalinaeleonorag) ☑
+* [Instagram](https://www.instagram.com/madalinaeleonorag/) ☑
+* [Facebook](https://www.facebook.com/mdx.madalinaeleonora/) ☑
+* [500px](https://500px.com/p/madalinaeleonorag?view=photos) ☑
+* [PayPal](https://www.paypal.com/paypalme/madalinaeleonorag) ☑
 
 ## My GitHub Stats
 [![Madalina's github stats](https://github-readme-stats.vercel.app/api?username=madalinaeleonorag)](https://github.com/madalinaeleonorag/github-readme-stats)
