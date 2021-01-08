@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Get in touch
 * Email: madalinaeleonora.gheorghe@gmail.com
 * [LinkedIn ✓](https://www.linkedin.com/in/madalinaeleonorag/)
