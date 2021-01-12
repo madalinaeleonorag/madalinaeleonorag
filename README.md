@@ -6,6 +6,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/madalinaeleonorag/">
   <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="auto" height="50px"> 
 
+<a target="_blank" href="https://madalinaeleonorag.medium.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="auto" height="50px"> 
+
 <a target="_blank" href="https://github.com/madalinaeleonorag">
   <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" width="auto" height="50px"> 
 
