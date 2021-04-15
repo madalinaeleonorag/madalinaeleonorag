@@ -20,9 +20,6 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 <a target="_blank" href="https://www.facebook.com/mdx.madalinaeleonora/">
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px"> 
 
-## My GitHub Stats
-[![Madalina's github stats](https://github-readme-stats.vercel.app/api?username=madalinaeleonorag)](https://github.com/madalinaeleonorag/github-readme-stats)
-
 ## Recent Medium articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"> 
