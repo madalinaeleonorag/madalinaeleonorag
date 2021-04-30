@@ -20,8 +20,6 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 ## My GitHub Stats
 ![Madalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=madalinaeleonorag&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=madalinaeleonorag&layout=compact&langs_count=10?exclude_repo=CRUD-PHP-mySQL)
-
 ## Recent Medium articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"> 
