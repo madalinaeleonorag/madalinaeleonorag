@@ -4,7 +4,7 @@
 You can find me on [![Email][1.2]][1].
 
 <!-- Icons -->
-[1.2]: https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png
+[1.2]: https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png
 
 <!-- Links to your social media accounts -->
 [1]: mailto:madalinaeleonora.gheorghe@gmail.com
