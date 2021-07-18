@@ -17,6 +17,10 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 <a target="_blank" href="https://www.facebook.com/mdx.madalinaeleonora/">
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px"> 
   
+  
+## Technologies
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E34F26)
+  
 ## My GitHub Stats
 ![Madalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=madalinaeleonorag&show_icons=true&theme=dark)
   <br>
@@ -24,13 +28,7 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 <br>
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madalinaeleonorag)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-  
-  
-  ![](https://img.shields.io/badge/test-test-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-
-
-  
 ## Recent Medium articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"> 
