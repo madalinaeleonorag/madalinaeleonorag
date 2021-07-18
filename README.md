@@ -19,6 +19,7 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
   
 ## My GitHub Stats
 ![Madalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=madalinaeleonorag&show_icons=true&theme=dark)
+  <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madalinaeleonorag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Medium articles
