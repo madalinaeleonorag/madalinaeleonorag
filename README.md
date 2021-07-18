@@ -31,7 +31,7 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 ![](https://img.shields.io/badge/Library-JQuery-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0864A7)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6c37)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2981b9)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=68217a)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=68217a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00589c)
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=367CF7)
 ![](https://img.shields.io/badge/Library-ReactJs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=50BBD7)
