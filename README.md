@@ -43,7 +43,9 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 ![](https://img.shields.io/badge/Design-Lightroom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0A232F)
   
 ## My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madalinaeleonorag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Madalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=madalinaeleonorag&show_icons=true&theme=dark)
+(https://github.com/anuraghazra/github-readme-stats)![Madalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=madalinaeleonorag&show_icons=true&theme=dark)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madalinaeleonorag&layout=compact)]
 
 
 ## Recent Medium articles
