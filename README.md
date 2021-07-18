@@ -21,7 +21,10 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 ![Madalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=madalinaeleonorag&show_icons=true&theme=dark)
   <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madalinaeleonorag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
+  
 ## Recent Medium articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"> 
