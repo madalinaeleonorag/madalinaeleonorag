@@ -22,7 +22,7 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
   <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madalinaeleonorag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madalinaeleonorag)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ## Recent Medium articles
