@@ -1,14 +1,5 @@
 ## Get in touch
 
-<!-- Actual text -->
-You can find me on [![Email][1.2]][1].
-
-<!-- Icons -->
-[1.2]: https://image.flaticon.com/icons/png/512/732/732200.png
-
-<!-- Links to your social media accounts -->
-[1]: mailto:madalinaeleonora.gheorghe@gmail.com
-
 Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev</a>
 
 <a href = "mailto:madalinaeleonora.gheorghe@gmail.com">
