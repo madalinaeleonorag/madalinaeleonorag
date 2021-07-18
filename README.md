@@ -1,5 +1,14 @@
 ## Get in touch
 
+<!-- Actual text -->
+You can find me on [![Email][1.2]][1].
+
+<!-- Icons -->
+[1.2]: https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png
+
+<!-- Links to your social media accounts -->
+[1]: mailto:madalinaeleonora.gheorghe@gmail.com
+
 Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev</a>
 
 <a href = "mailto:madalinaeleonora.gheorghe@gmail.com">
