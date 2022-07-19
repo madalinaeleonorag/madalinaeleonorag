@@ -1,4 +1,6 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,
+<br>
+
 I am Madalina and I gathered my passions in Web Development. I'm a Bucharest-based software engineer specialised in building (and occasionally designing) digital experiences.
 
 Actually Front-End Developer at Deloitte Digital, former Junior Front-End Developer at IBM and Database Administrator at Groupe Renault, focused on increasing both technical and soft skills, working with people around the globe and learning how to deliver their expectations.
@@ -7,10 +9,10 @@ I work in a proactive way, every time ready to face challenges and working well 
 
 <br>
 
-[<img align="left" alt="madalinaeleonora.dev | Website" width="22px" src="./website.png" />][website]
-[<img align="left" alt="madalinaeleonorag | LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
-[<img align="left" alt="madalinaeleonorag | Medium" width="22px" src="./medium.png" />][medium]
-[<img align="left" alt="madalinaeleonora.gheorghe | Gmail" width="22px" src="./gmail.png" />][gmail]
+[<img align="left" alt="madalinaeleonora.dev | Website" width="25px" src="./website.png" />][website]
+[<img align="left" alt="madalinaeleonorag | LinkedIn" width="25px" src="./linkedin.png" />][linkedin]
+[<img align="left" alt="madalinaeleonorag | Medium" width="25px" src="./medium.png" />][medium]
+[<img align="left" alt="madalinaeleonora.gheorghe | Gmail" width="25px" src="./gmail.png" />][gmail]
 
 [website]: https://madalinaeleonora.dev/
 [linkedin]: https://www.linkedin.com/in/madalinaeleonorag/
@@ -42,25 +44,25 @@ I work in a proactive way, every time ready to face challenges and working well 
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00589c)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=787cb4)
+![C++](http://img.shields.io/badge/-Cpp-00589c?style=flat&logo=cpp&logoColor=white)
+![PHP](http://img.shields.io/badge/-PHP-787cb4?style=flat&logo=php&logoColor=white)
 
 ### Preprocesor
 
-![](https://img.shields.io/badge/Preprocesor-SCSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=C96195)
+![SCSS](http://img.shields.io/badge/-SCSS-C96195?style=flat&logo=scss&logoColor=white)
 
 ### Framework
 
-![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=7952B3)
-![](https://img.shields.io/badge/Framework-VueJs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3FB27F)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=BD002E)
-![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=367CF7)
+![Bootstrap](http://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Vue](http://img.shields.io/badge/-Vue-3FB27F?style=flat&logo=vue.js&logoColor=white)
+![Angular](http://img.shields.io/badge/-Angular-BD002E?style=flat&logo=angular&logoColor=white)
+![Ionic](http://img.shields.io/badge/-Ionic-367CF7?style=flat&logo=ionic&logoColor=white)
 
 ### Library
 
-![](https://img.shields.io/badge/Library-VUEX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=33475B)
-![](https://img.shields.io/badge/Library-JQuery-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0864A7)
-![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6c37)
+![VUEX](https://img.shields.io/badge/-VUEX-33475B?style=flat&logo=vuex&logoColor=white)
+![JQuery](https://img.shields.io/badge/-JQuery-0864A7?style=flat&logo=jquery&logoColor=white)
+![RxJs](https://img.shields.io/badge/-RxJs-FF0000?style=flat&logo=rxjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
 
 #### QA & Testing
@@ -71,12 +73,12 @@ I work in a proactive way, every time ready to face challenges and working well 
 ### Design
 
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![](https://img.shields.io/badge/Design-Lightroom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0A232F)
+![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-0A232F?style=flat&logo=adobe-lightroom&logoColor=white)
 
 ### CMS
 
-![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=207196)
-![](https://img.shields.io/badge/CMS-Mambu-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=248c58)
+![WordPress](https://img.shields.io/badge/-WordPress-207196?style=flat&logo=wordpress&logoColor=white)
+![Mambu](https://img.shields.io/badge/-Mambu-248c58?style=flat&logo=mambu&logoColor=white)
 
 ### DevOps
 
@@ -97,4 +99,4 @@ I work in a proactive way, every time ready to face challenges and working well 
 
 ### Database
 
-![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F7C52B)
+![NoSQL](https://img.shields.io/badge/-NoSQL-F7C52B?style=flat&logo=nosql&logoColor=white)
