@@ -1,24 +1,17 @@
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 ## Get in touch
 
 Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev</a>
 
-<a href = "mailto:madalinaeleonora.gheorghe@gmail.com">
-  <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="auto" height="50px"> 
+[<img align="left" alt="madalinaeleonorag | LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
+[<img align="left" alt="madalinaeleonorag | Medium" width="22px" src="./medium.png" />][medium]
+[<img align="left" alt="madalinaeleonora.gheorghe | Gmail" width="22px" src="./gmail.png" />][gmail]
+[<img align="left" alt="madalinaeleonorag | Instagram" width="22px" src="./instagram.png" />][instagram]
+[<img align="left" alt="madalinaeleonora | Facebook" width="22px" src="./facebook.png" />][facebook]
 
-<a target="_blank" href="https://www.linkedin.com/in/madalinaeleonorag/">
-  <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="auto" height="50px"> 
-
-<a target="_blank" href="https://madalinaeleonorag.medium.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="auto" height="50px"> 
-
-<a target="_blank" href="https://www.instagram.com/madalinaeleonorag/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="auto" height="50px"> 
-
-<a target="_blank" href="https://www.facebook.com/mdx.madalinaeleonora/">
-  <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px"> 
-  
-  
 ## Technologies
+
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Preprocesor-SCSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=C96195)
@@ -42,14 +35,16 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=787cb4)
 ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=001D34)
 ![](https://img.shields.io/badge/Design-Lightroom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0A232F)
-  
+
 ## My GitHub Stats
+
 ![Madalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=madalinaeleonorag&show_icons=true&theme=dark)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madalinaeleonorag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-## Recent Medium articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/2"> 
+## Recent articles
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/2">
