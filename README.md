@@ -44,12 +44,9 @@ I work in a proactive way, every time ready to face challenges and working well 
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
-![C++](http://img.shields.io/badge/-Cpp-00589c?style=flat&logo=cpp&logoColor=white)
+![C++](http://img.shields.io/badge/-C++-00589c?style=flat&logo=c++&logoColor=white)
 ![PHP](http://img.shields.io/badge/-PHP-787cb4?style=flat&logo=php&logoColor=white)
-
-### Preprocesor
-
-![SCSS](http://img.shields.io/badge/-SCSS-C96195?style=flat&logo=scss&logoColor=white)
+![Java](http://img.shields.io/badge/-Java-787cb4?style=flat&logo=java&logoColor=white)
 
 ### Framework
 
@@ -60,9 +57,9 @@ I work in a proactive way, every time ready to face challenges and working well 
 
 ### Library
 
-![VUEX](https://img.shields.io/badge/-VUEX-33475B?style=flat&logo=vuex&logoColor=white)
+![Vuetify](https://img.shields.io/badge/-Vuetify-33475B?style=flat&logo=vuetify&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-JQuery-0864A7?style=flat&logo=jquery&logoColor=white)
-![RxJs](https://img.shields.io/badge/-RxJs-FF0000?style=flat&logo=rxjs&logoColor=white)
+![ReactiveX](https://img.shields.io/badge/-ReactiveX-FF0000?style=flat&logo=reactivex&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
 
 #### QA & Testing
