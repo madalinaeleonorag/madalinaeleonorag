@@ -1,3 +1,5 @@
+# [![madalina eleonora header](https://raw.githubusercontent.com/madalinaeleonorag/madalinaeleonorag/main/banner.png)](https://www.madalinaeleonora.dev/)
+
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,
 <br>
 
