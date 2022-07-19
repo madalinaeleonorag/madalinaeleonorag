@@ -15,6 +15,17 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 <br>
 <br>
 
+## My GitHub Stats
+
+![Madalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=madalinaeleonorag&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madalinaeleonorag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Recent articles
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/2">
+
 ## Technologies
 
 ### Code
@@ -82,14 +93,3 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 ### Database
 
 ![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F7C52B)
-
-## My GitHub Stats
-
-![Madalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=madalinaeleonorag&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madalinaeleonorag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Recent articles
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/2">
