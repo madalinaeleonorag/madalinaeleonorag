@@ -7,8 +7,6 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 [<img align="left" alt="madalinaeleonorag | LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
 [<img align="left" alt="madalinaeleonorag | Medium" width="22px" src="./medium.png" />][medium]
 [<img align="left" alt="madalinaeleonora.gheorghe | Gmail" width="22px" src="./gmail.png" />][gmail]
-[<img align="left" alt="madalinaeleonorag | Instagram" width="22px" src="./instagram.png" />][instagram]
-[<img align="left" alt="madalinaeleonora | Facebook" width="22px" src="./facebook.png" />][facebook]
 
 ## Technologies
 
