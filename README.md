@@ -8,6 +8,10 @@ Personal website: <a href = "https://madalinaeleonora.dev/">madalinaeleonora.dev
 [<img align="left" alt="madalinaeleonorag | Medium" width="22px" src="./medium.png" />][medium]
 [<img align="left" alt="madalinaeleonora.gheorghe | Gmail" width="22px" src="./gmail.png" />][gmail]
 
+[linkedin]: https://www.linkedin.com/in/madalinaeleonorag/
+[gmail]: mailto:madalinaeleonora.gheorghe@gmail.com
+[medium]: https://madalinaeleonorag.medium.com/
+
 ## Technologies
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E34F26)
