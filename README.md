@@ -88,7 +88,8 @@ I work in a proactive way, every time ready to face challenges and working well 
 
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/-Azure-0078D7?style=flat&logo=azure.devops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ### Utilities
 
