@@ -6,7 +6,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <br>
 
-⚡ I am Madalina and I gathered my passions in Web Development. I'm a Bucharest-based software engineer specialised in building (and occasionally designing) digital experiences.<br><br>🤝 Actually Front-End Developer at Deloitte Digital, former Junior Front-End Developer at IBM and Database Administrator at Groupe Renault, focused on increasing both technical and soft skills, working with people around the globe and learning how to deliver their expectations.<br><br>🌱 I work in a proactive way, every time ready to face challenges and working well under pressure. I am creative and my analytical thinking is helping me to find solutions for difficult situations. I believe in teams and if we work together and have fun, we can touch even the hardest achievements.
+⚡ I am Madalina and I gathered my passions in Web Development. I'm a Bucharest-based software engineer specialised in building (and occasionally designing) digital experiences.<br><br>🤝 Actually Software Engineer at Cognizant Softvision, former Front-End Developer at Deloitte Digital, Junior Front-End Developer at IBM and Database Administrator at Groupe Renault, focused on increasing both technical and soft skills, working with people around the globe and learning how to deliver their expectations.<br><br>🌱 I work in a proactive way, every time ready to face challenges and working well under pressure. I am creative and my analytical thinking is helping me to find solutions for difficult situations. I believe in teams and if we work together and have fun, we can touch even the hardest achievements.
 <br>
 
 ## 🌐 Socials:
