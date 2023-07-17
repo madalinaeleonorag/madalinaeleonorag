@@ -1,4 +1,4 @@
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br>
 
@@ -25,6 +25,3 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madalinaeleonorag/2">
-
-<br>
-[![](https://visitcount.itsvg.in/api?id=madalinaeleonorag&icon=6&color=12)](https://visitcount.itsvg.in)
