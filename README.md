@@ -2,11 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madalinaeleonorag&label=Profile%20views&color=0e75b6&style=flat" alt="madalinaeleonorag" /> </p>
 
-- 💼 I’m currently working for [Cognizant](https://www.cognizant.com)
-
-- Worked also for [Deloitte Digital](https://www.deloittedigital.com/)
-
-- and [IBM iX](https://www.ibm.com/consulting/ibmix)
+- 💼 I’m currently working for [Cognizant](https://www.cognizant.com). Worked also for [Deloitte Digital](https://www.deloittedigital.com/) and [IBM iX](https://www.ibm.com/consulting/ibmix)
 
 - 🌱 I’m currently learning **Angular, React & Management**
 
