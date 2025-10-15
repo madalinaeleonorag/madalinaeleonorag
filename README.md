@@ -3,7 +3,7 @@
 
 💼 I’m currently working for [SS&C Technologies](https://www.ssctech.com/). Worked also for [Cognizant](https://www.cognizant.com), [Deloitte Digital](https://www.deloittedigital.com/) and [IBM iX](https://www.ibm.com/consulting/ibmix);
 
-👨‍💻 All of my projects are available at [https://madalinaeleonora.dev]([https://madalinaeleonora.dev](https://madalinaeleonorag.github.io/));
+👨‍💻 All of my projects are available at [my Website](https://madalinaeleonorag.github.io);
 
 📝 I regularly write articles on [https://madalinaeleonorag.medium.com](https://madalinaeleonorag.medium.com);
 
